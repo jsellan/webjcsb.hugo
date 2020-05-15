@@ -2,263 +2,263 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://jsellan.github.io/zh-cn/theme-documentation-basics/</loc><lastmod>2020-05-15T15:56:33-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>localhost/public/zh-cn/theme-documentation-basics/</loc><lastmod>2020-05-15T15:56:33-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://jsellan.github.io/theme-documentation-basics/"
+                        href="localhost/public/theme-documentation-basics/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="fr"
-                        href="https://jsellan.github.io/fr/theme-documentation-basics/"
+                        href="localhost/public/fr/theme-documentation-basics/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://jsellan.github.io/zh-cn/theme-documentation-basics/"
+                    href="localhost/public/zh-cn/theme-documentation-basics/"
                     /></url><url>
-            <loc>https://jsellan.github.io/zh-cn/theme-documentation-content/</loc><lastmod>2020-05-15T15:56:33-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>localhost/public/zh-cn/theme-documentation-content/</loc><lastmod>2020-05-15T15:56:33-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://jsellan.github.io/theme-documentation-content/"
+                        href="localhost/public/theme-documentation-content/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="fr"
-                        href="https://jsellan.github.io/fr/theme-documentation-content/"
+                        href="localhost/public/fr/theme-documentation-content/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://jsellan.github.io/zh-cn/theme-documentation-content/"
+                    href="localhost/public/zh-cn/theme-documentation-content/"
                     /></url><url>
-            <loc>https://jsellan.github.io/zh-cn/theme-documentation-built-in-shortcodes/</loc><lastmod>2020-05-15T15:56:33-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>localhost/public/zh-cn/theme-documentation-built-in-shortcodes/</loc><lastmod>2020-05-15T15:56:33-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://jsellan.github.io/theme-documentation-built-in-shortcodes/"
+                        href="localhost/public/theme-documentation-built-in-shortcodes/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="fr"
-                        href="https://jsellan.github.io/fr/theme-documentation-built-in-shortcodes/"
+                        href="localhost/public/fr/theme-documentation-built-in-shortcodes/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://jsellan.github.io/zh-cn/theme-documentation-built-in-shortcodes/"
+                    href="localhost/public/zh-cn/theme-documentation-built-in-shortcodes/"
                     /></url><url>
-            <loc>https://jsellan.github.io/zh-cn/theme-documentation-extended-shortcodes/</loc><lastmod>2020-05-15T15:56:33-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>localhost/public/zh-cn/theme-documentation-extended-shortcodes/</loc><lastmod>2020-05-15T15:56:33-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://jsellan.github.io/theme-documentation-extended-shortcodes/"
+                        href="localhost/public/theme-documentation-extended-shortcodes/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="fr"
-                        href="https://jsellan.github.io/fr/theme-documentation-extended-shortcodes/"
+                        href="localhost/public/fr/theme-documentation-extended-shortcodes/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://jsellan.github.io/zh-cn/theme-documentation-extended-shortcodes/"
+                    href="localhost/public/zh-cn/theme-documentation-extended-shortcodes/"
                     /></url><url>
-            <loc>https://jsellan.github.io/zh-cn/basic-markdown-syntax/</loc><lastmod>2020-05-15T15:56:33-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>localhost/public/zh-cn/basic-markdown-syntax/</loc><lastmod>2020-05-15T15:56:33-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://jsellan.github.io/basic-markdown-syntax/"
+                        href="localhost/public/basic-markdown-syntax/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="fr"
-                        href="https://jsellan.github.io/fr/basic-markdown-syntax/"
+                        href="localhost/public/fr/basic-markdown-syntax/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://jsellan.github.io/zh-cn/basic-markdown-syntax/"
+                    href="localhost/public/zh-cn/basic-markdown-syntax/"
                     /></url><url>
-            <loc>https://jsellan.github.io/zh-cn/emoji-support/</loc><lastmod>2020-05-15T15:56:33-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>localhost/public/zh-cn/emoji-support/</loc><lastmod>2020-05-15T15:56:33-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://jsellan.github.io/emoji-support/"
+                        href="localhost/public/emoji-support/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="fr"
-                        href="https://jsellan.github.io/fr/emoji-support/"
+                        href="localhost/public/fr/emoji-support/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://jsellan.github.io/zh-cn/emoji-support/"
+                    href="localhost/public/zh-cn/emoji-support/"
                     /></url><url>
-            <loc>https://jsellan.github.io/zh-cn/categories/</loc><lastmod>2020-05-15T15:56:33-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>localhost/public/zh-cn/categories/</loc><lastmod>2020-05-15T15:56:33-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://jsellan.github.io/categories/"
+                        href="localhost/public/categories/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="fr"
-                        href="https://jsellan.github.io/fr/categories/"
+                        href="localhost/public/fr/categories/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://jsellan.github.io/zh-cn/categories/"
+                    href="localhost/public/zh-cn/categories/"
                     /></url><url>
-            <loc>https://jsellan.github.io/zh-cn/posts/</loc><lastmod>2020-05-15T15:56:33-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>localhost/public/zh-cn/posts/</loc><lastmod>2020-05-15T15:56:33-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://jsellan.github.io/posts/"
+                        href="localhost/public/posts/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="fr"
-                        href="https://jsellan.github.io/fr/posts/"
+                        href="localhost/public/fr/posts/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://jsellan.github.io/zh-cn/posts/"
+                    href="localhost/public/zh-cn/posts/"
                     /></url><url>
-            <loc>https://jsellan.github.io/zh-cn/tags/</loc><lastmod>2020-05-15T15:56:33-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>localhost/public/zh-cn/tags/</loc><lastmod>2020-05-15T15:56:33-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://jsellan.github.io/tags/"
+                        href="localhost/public/tags/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="fr"
-                        href="https://jsellan.github.io/fr/tags/"
+                        href="localhost/public/fr/tags/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://jsellan.github.io/zh-cn/tags/"
+                    href="localhost/public/zh-cn/tags/"
                     /></url><url>
-            <loc>https://jsellan.github.io/zh-cn/tags/markdown/</loc><lastmod>2020-05-15T15:56:33-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>localhost/public/zh-cn/tags/markdown/</loc><lastmod>2020-05-15T15:56:33-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://jsellan.github.io/tags/markdown/"
+                        href="localhost/public/tags/markdown/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="fr"
-                        href="https://jsellan.github.io/fr/tags/markdown/"
+                        href="localhost/public/fr/tags/markdown/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://jsellan.github.io/zh-cn/tags/markdown/"
+                    href="localhost/public/zh-cn/tags/markdown/"
                     /></url><url>
-            <loc>https://jsellan.github.io/zh-cn/tags/shortcodes/</loc><lastmod>2020-05-15T15:56:33-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>localhost/public/zh-cn/tags/shortcodes/</loc><lastmod>2020-05-15T15:56:33-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://jsellan.github.io/tags/shortcodes/"
+                        href="localhost/public/tags/shortcodes/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="fr"
-                        href="https://jsellan.github.io/fr/tags/shortcodes/"
+                        href="localhost/public/fr/tags/shortcodes/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://jsellan.github.io/zh-cn/tags/shortcodes/"
+                    href="localhost/public/zh-cn/tags/shortcodes/"
                     /></url><url>
-            <loc>https://jsellan.github.io/zh-cn/tags/html/</loc><lastmod>2020-05-15T15:56:33-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>localhost/public/zh-cn/tags/html/</loc><lastmod>2020-05-15T15:56:33-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://jsellan.github.io/tags/html/"
+                        href="localhost/public/tags/html/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="fr"
-                        href="https://jsellan.github.io/fr/tags/html/"
+                        href="localhost/public/fr/tags/html/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://jsellan.github.io/zh-cn/tags/html/"
+                    href="localhost/public/zh-cn/tags/html/"
                     /></url><url>
-            <loc>https://jsellan.github.io/zh-cn/categories/markdown/</loc><lastmod>2020-05-15T15:56:33-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>localhost/public/zh-cn/categories/markdown/</loc><lastmod>2020-05-15T15:56:33-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://jsellan.github.io/categories/markdown/"
+                        href="localhost/public/categories/markdown/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="fr"
-                        href="https://jsellan.github.io/fr/categories/markdown/"
+                        href="localhost/public/fr/categories/markdown/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://jsellan.github.io/zh-cn/categories/markdown/"
+                    href="localhost/public/zh-cn/categories/markdown/"
                     /></url><url>
-            <loc>https://jsellan.github.io/zh-cn/tags/emoji/</loc><lastmod>2020-05-15T15:56:33-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>localhost/public/zh-cn/tags/emoji/</loc><lastmod>2020-05-15T15:56:33-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://jsellan.github.io/tags/emoji/"
+                        href="localhost/public/tags/emoji/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="fr"
-                        href="https://jsellan.github.io/fr/tags/emoji/"
+                        href="localhost/public/fr/tags/emoji/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://jsellan.github.io/zh-cn/tags/emoji/"
+                    href="localhost/public/zh-cn/tags/emoji/"
                     /></url><url>
-            <loc>https://jsellan.github.io/zh-cn/</loc><lastmod>2020-05-15T15:56:33-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>localhost/public/zh-cn/</loc><lastmod>2020-05-15T15:56:33-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://jsellan.github.io/"
+                        href="localhost/public/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="fr"
-                        href="https://jsellan.github.io/fr/"
+                        href="localhost/public/fr/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://jsellan.github.io/zh-cn/"
+                    href="localhost/public/zh-cn/"
                     /></url><url>
-            <loc>https://jsellan.github.io/zh-cn/about/</loc><lastmod>2020-05-15T15:56:33-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>localhost/public/zh-cn/about/</loc><lastmod>2020-05-15T15:56:33-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://jsellan.github.io/about/"
+                        href="localhost/public/about/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="fr"
-                        href="https://jsellan.github.io/fr/about/"
+                        href="localhost/public/fr/about/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://jsellan.github.io/zh-cn/about/"
+                    href="localhost/public/zh-cn/about/"
                     /></url><url>
-            <loc>https://jsellan.github.io/zh-cn/tags/content/</loc><lastmod>2020-05-15T15:56:33-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>localhost/public/zh-cn/tags/content/</loc><lastmod>2020-05-15T15:56:33-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://jsellan.github.io/tags/content/"
+                        href="localhost/public/tags/content/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="fr"
-                        href="https://jsellan.github.io/fr/tags/content/"
+                        href="localhost/public/fr/tags/content/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://jsellan.github.io/zh-cn/tags/content/"
+                    href="localhost/public/zh-cn/tags/content/"
                     /></url><url>
-            <loc>https://jsellan.github.io/zh-cn/tags/installation/</loc><lastmod>2020-05-15T15:56:33-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>localhost/public/zh-cn/tags/installation/</loc><lastmod>2020-05-15T15:56:33-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://jsellan.github.io/tags/installation/"
+                        href="localhost/public/tags/installation/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="fr"
-                        href="https://jsellan.github.io/fr/tags/installation/"
+                        href="localhost/public/fr/tags/installation/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://jsellan.github.io/zh-cn/tags/installation/"
+                    href="localhost/public/zh-cn/tags/installation/"
                     /></url><url>
-            <loc>https://jsellan.github.io/zh-cn/categories/documentation/</loc><lastmod>2020-05-15T15:56:33-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>localhost/public/zh-cn/categories/documentation/</loc><lastmod>2020-05-15T15:56:33-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://jsellan.github.io/categories/documentation/"
+                        href="localhost/public/categories/documentation/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="fr"
-                        href="https://jsellan.github.io/fr/categories/documentation/"
+                        href="localhost/public/fr/categories/documentation/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://jsellan.github.io/zh-cn/categories/documentation/"
+                    href="localhost/public/zh-cn/categories/documentation/"
                     /></url><url>
-            <loc>https://jsellan.github.io/zh-cn/tags/configuration/</loc><lastmod>2020-05-15T15:56:33-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>localhost/public/zh-cn/tags/configuration/</loc><lastmod>2020-05-15T15:56:33-05:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://jsellan.github.io/tags/configuration/"
+                        href="localhost/public/tags/configuration/"
                         /><xhtml:link
                         rel="alternate"
                         hreflang="fr"
-                        href="https://jsellan.github.io/fr/tags/configuration/"
+                        href="localhost/public/fr/tags/configuration/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://jsellan.github.io/zh-cn/tags/configuration/"
+                    href="localhost/public/zh-cn/tags/configuration/"
                     /></url></urlset>

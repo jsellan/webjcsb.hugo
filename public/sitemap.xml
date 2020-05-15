@@ -2,21 +2,21 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	
 	<sitemap>
-	   	<loc>https://jsellan.github.io/en/sitemap.xml</loc>
+	   	<loc>localhost/public/en/sitemap.xml</loc>
+		
+	   	<lastmod>2020-05-15T17:04:46-05:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>localhost/public/zh-cn/sitemap.xml</loc>
 		
 	   	<lastmod>2020-05-15T15:56:33-05:00</lastmod>
 		
 	</sitemap>
 	
 	<sitemap>
-	   	<loc>https://jsellan.github.io/zh-cn/sitemap.xml</loc>
-		
-	   	<lastmod>2020-05-15T15:56:33-05:00</lastmod>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>https://jsellan.github.io/fr/sitemap.xml</loc>
+	   	<loc>localhost/public/fr/sitemap.xml</loc>
 		
 	   	<lastmod>2020-05-15T15:56:33-05:00</lastmod>
 		
